@@ -8,5 +8,5 @@ If you find this work or code is helpful in your research, please cite:
 ````
 @title={Joint label completion and label-specific features for multi-label learning algorithm},
   author={Yibin Wang and Weijie Zheng and Yusheng Cheng and Dawei Zhao},
-  journal={soft computing}
+  journal={soft computing},
   year={2020}
